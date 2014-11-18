@@ -2,7 +2,7 @@ The function of this program backups config-files of node js servers to a focusi
 
 My thinking is logining each server to exec some shell commands that it can do everything for my mind.
 The step:
-    the first :get current git-version-number.The command is "tail -1 /root/node_version.log | awk '{printf $8}'".
+    the first :get current git-version-number.The command is "tail -1 /root/node_version.log | awk '{printf $8}'"
     the second:loing server and exec tar command.The command is "tar -zvcf /tmp/syyx_conf_" + ip + "_" + git_number + ".tar.gz --exclude=font. /root/syyx_conf".There has a two variables that is ip-address and git_number from the first.
     the third :I use stfp to download the tar.gz package.
     the last  :remove the temporary tar.gz pachage.

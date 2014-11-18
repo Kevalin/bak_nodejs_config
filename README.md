@@ -1,6 +1,6 @@
 <h3>The function of program backups config-files of node js servers to a focusing bak-server.</h3>
 
-<p>It is logining each server to exec some shell commands that it can do everything for my mind.</p>
+<p>It is logining each server to exec some shell commands that it can do everything for my minds.</p>
 <h3>Step:</h3>
     1.get current git-version-number.The command is "tail -1 /root/node_version.log | awk '{printf $8}'".
     2.loing server and exec tar command.The command is "tar -zvcf /tmp/syyx_conf_" + ip + "_" + git_number + ".tar.gz --exclude=font. /root/syyx_conf".There has a two variables that is ip-address and git_number from the first.

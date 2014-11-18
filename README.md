@@ -1,4 +1,4 @@
-<h3>The function of this program backups config-files of node js servers to a focusing bak-servers.</h3>
+<h3>The function of program backups config-files of node js servers to a focusing bak-servers.</h3>
 
 <p>My thinking is logining each server to exec some shell commands that it can do everything for my mind.</p>
 <h3>Step:</h3>

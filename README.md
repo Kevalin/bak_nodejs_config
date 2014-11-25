@@ -13,4 +13,4 @@
         remote is the path of remoted tar.gz.
         local is the path of saving tar.gz.
     The finaly,you can get some files like this syyx_conf_192.168.20.152_m_141023.008.tar.gz.
-    Well,you can run program to node app.js.
+    Well now,you can run the program,node app.js.

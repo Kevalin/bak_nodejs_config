@@ -1,5 +1,5 @@
 exports.security = {
-    "ssh" : "shangY00~",
+    "ssh" : "test~!@#",
 }
 
 exports.info = {
@@ -9,5 +9,5 @@ exports.info = {
             ],
     "port" : 22,
     "username" : "root",
-    "password" : "fc7ee9c76bc0721c7bb30e0909a3e7a7"
+    "password" : "fc7ee9c76bc0721c7bb30e0909a3ese4"
 }
